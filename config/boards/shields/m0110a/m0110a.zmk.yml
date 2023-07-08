@@ -1,0 +1,9 @@
+# metadata file. doesn't do anything
+file_format: "1"
+id: m0110a
+name: m0110a
+type: shield
+url: https://github.com/f4rtist/zmk-m0110a
+requires: [nice_nano_v2]
+features:
+  - keys
